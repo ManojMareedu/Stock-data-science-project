@@ -178,7 +178,7 @@ The notebook is self-contained — run all cells sequentially from data loading 
 
 ## 📄 License
 
-This project was developed for academic purposes as part of a graduate-level Data Science course. All data sourced from publicly available Yahoo Finance records.
+This project was developed for academic purposes as part of a graduate-level Data Science course. 
 
 ---
 
